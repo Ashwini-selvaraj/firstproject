@@ -1,0 +1,1 @@
+create table ashwini(id int,name varchar(88),city varchar(66));
