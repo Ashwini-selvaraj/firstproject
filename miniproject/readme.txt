@@ -4,3 +4,4 @@ git branch (to check in which branch we working)
 git add filename(to add a file)
 git commit -m(modify command)
 git push
+git switch branchname (switch to another branch)
