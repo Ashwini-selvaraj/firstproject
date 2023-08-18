@@ -5,3 +5,4 @@ git add filename(to add a file)
 git commit -m(modify command)
 git push
 git switch branchname (switch to another branch)
+git checkout branch -b(to create a new branch)
